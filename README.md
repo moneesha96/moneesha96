@@ -12,7 +12,7 @@
 I'm an administration professional transitioning into Data Analytics, with a BCS-accredited Data Analyst diploma and a growing portfolio of practical projects.
 
 📊 Currently: Building data analysis projects using real-world datasets
-🛠️ Tools: SQL • Python • Power BI • Tableau
+🛠️ Tools: SQL • Power BI • Tableau
 🔎 Skills: Data Cleaning • EDA • Statistical Analysis • Hypothesis Testing • Data Visualisation • Machine Learning
 🌱 Learning: Continuously developing my analytical and technical skills
 🎯 Goal: To begin my career as a Data Analyst and use data to solve real-world business problems
