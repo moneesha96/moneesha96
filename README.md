@@ -18,7 +18,6 @@ I'm a data analyst with a BCS-accredited diploma, trained in the full data pipel
 <h2>Tech Stack</h2>
 <h3>Languages & Querying</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 <h3>Python Libraries</h3>
