@@ -7,11 +7,25 @@
 </p>
 <h2>About Me</h2>
 <p>
-I'm a data analyst with a BCS-accredited diploma, trained in the full data pipeline from raw extraction and cleaning through to statistical insight, machine learning, and stakeholder-ready visualisations. I care about doing analysis that's honest, reproducible, and actually useful.
+👋 Hi, I'm Moneesha.
+
+I'm an administration professional transitioning into Data Analytics, with a BCS-accredited Data Analyst diploma and a growing portfolio of practical projects.
+
+📊 Currently: Building data analysis projects using real-world datasets
+🛠️ Tools: SQL • Python • Power BI • Tableau
+🔎 Skills: Data Cleaning • EDA • Statistical Analysis • Hypothesis Testing • Data Visualisation • Machine Learning
+🌱 Learning: Continuously developing my analytical and technical skills
+🎯 Goal: To begin my career as a Data Analyst and use data to solve real-world business problems
+
+I’m particularly interested in turning messy data into clear, meaningful insights and creating analysis that is accurate, transparent, and useful.
+
+📂 What you'll find here
+
+My repositories document my journey into data analytics, including the analysis process, code, visualisations, findings, and lessons learned along the way.
 </p>
 <ul>
     <li>Currently building my portfolio with real-world datasets</li>
-    <li>Comfortable across SQL, Python, Power BI, and Tableau</li>
+    <li>Comfortable across SQL, Power BI, and Tableau</li>
     <li>Committed to ethical, transparent data practice</li>
     <li>Ask me about EDA, hypothesis testing, or dashboard design</li>
 </ul>
